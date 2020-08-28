@@ -16,13 +16,13 @@ Sur Firefox :
 
 - Cliquez sur le **menu** en haut à droite
 
-![menu à cliquer](https://trello-attachments.s3.amazonaws.com/586baae409278718c50732fb/5873634aba64ea863584c2de/9e12fa6183defd31e4d26a7f57ffa34a/menu.png)
+![menu à cliquer](illustrations/menu-console.png)
 
 - Choisissez **"developer"** (le symbole avec une clef plate)
 
 - Choisissez **Web Console** et vous devriez normalement voir une petite fenêtre blanche apparaître. Voilà c'est la console où vous allez pouvoir taper vos premières lignes de JavaScript.
 
-![web console](https://trello-attachments.s3.amazonaws.com/586baae409278718c50732fb/5873634aba64ea863584c2de/d3a0426f674ee00740b34bb981807b30/console.png)
+![web console](illustrations/console.png)
 
 Pour tester la console rentrez simplement cette ligne de code, appuyez sur entrée et vous devriez voir quelque chose apparaître à l'écran :
 

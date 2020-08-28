@@ -30,7 +30,7 @@ Toutes ceci n'est que votre programme ```faire du thé``` qui a été décompos�
 
 ## 3\. La programmation en JavaScript
 
-En JavaScript justement nous allons pouvoir demander à l'ordinateur de réaliser des **actions complexes** selon des cas de figure précis. 
+En JavaScript justement nous allons pouvoir demander à l'ordinateur de réaliser des **actions complexes** selon des cas de figure précis.
 
 Nous allons produire ce que l'on appelle des **algorithmes**, des suites d'instructions qui permettent de résoudre un problème.
 
@@ -38,4 +38,4 @@ Une instruction est un ordre que nous donnons à l'ordinateur pour qu'il réalis
 
 Si tout cela ne vous semble pas très clair, regardez le schéma ci-dessous pour voir comment fonctionne un algorithme et ne vous inquiétez pas ces notions viendront avec le temps.
 
-![schéma algorithme](https://trello-attachments.s3.amazonaws.com/58906901f17cabb351c11683/794x1123/b4e83edaf2e262c95ec26dc39b3d0eee/algorithme.jpg.png)
+![schéma algorithme](illustrations/algorithme.jpg)

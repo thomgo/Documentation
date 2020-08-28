@@ -30,7 +30,7 @@ Côté client, côté serveur, qu'est ce que ça veut dire tout ça ? Il est pos
 
 Si cela n'est pas clair ce petit schéma va vous aider :
 
-![modèle client serveur](https://trello-attachments.s3.amazonaws.com/588f0568385a0f0e15508f46/1123x794/a8acc1a27875697599be2450eac83c05/cliet_serveur_model.jpg.png)
+![modèle client serveur](illustrations/client-serveur-model.jpg)
 
 ## 3\.Documentation
 
@@ -38,11 +38,11 @@ Comme pour tout les langages il y aura plusieurs sites de documentation dont vou
 
 - **La documentation MDN sur Javascript** : https://developer.mozilla.org/fr/docs/Web/JavaScript
 
-![mdn javascript](https://trello-attachments.s3.amazonaws.com/586baae409278718c50732fb/588f0568385a0f0e15508f46/6e9bd01c7773547b74298215d7490cec/mdn_js.png)
+![mdn javascript](illustrations/mdn-javascript.png)
 
 - **Le site de la w3school** : http://www.w3schools.com/js/default.asp . Bien qu'orienté tutoriel, il reprend tout ce qu'il y a à savoir sur Javascript
 
-![w3school javascript](https://trello-attachments.s3.amazonaws.com/586baae409278718c50732fb/588f0568385a0f0e15508f46/c05b66eed48ed445e8c123327635e47a/w3school_js.png)
+![w3school javascript](illustrations/w3school-javascript.png)
 
 Sur ces sites, vous retrouverez toutes les spécificités et les fonctions du langage (nous verrons bientôt ce qu'est une fonction). Vous ne pourrez jamais toutes les retenir il est donc primordial de prendre l'habitude d'aller consulter la documentation.
 

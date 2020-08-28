@@ -31,7 +31,7 @@ Cela fait beaucoup de choses d'un coup alors reprenons la déclaration d'une var
 
 Pour bien comprendre l'utilisation des variables regardez le schéma ci-dessous :
 
-![usage d'une variable](https://trello-attachments.s3.amazonaws.com/587362d516378eb47f58781b/794x1123/dcb0cb51bc8d3ba07792e958382e79b1/usage_variable.jpg.png)
+![usage d'une variable](illustrations/usage-variable-js.jpg)
 
 ## 3\.Particularités des variables
 
