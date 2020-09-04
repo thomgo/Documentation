@@ -1,6 +1,6 @@
 #Les événements jQuery#
 
-JQuery es t**orienté sur les événements**. Les événements qui peuvent se réaliser sur une page ont été prédéfinis et nous avons la possibilité de déclencher des actions quand l'un d'eux se produit. Un événement peut être le survol d'une balise HTML par la souris ou un clic de l'internaute. **Il est toujours associé à un élément de notre page**.
+JQuery est **orienté sur les événements**. Les événements qui peuvent se réaliser sur une page ont été prédéfinis et nous avons la possibilité de déclencher des actions quand l'un d'eux se produit. Un événement peut être le survol d'une balise HTML par la souris ou un clic de l'internaute. **Il est toujours associé à un élément de notre page**.
 
 Schématiquement, la syntaxe pour demander à jQuery de réaliser une action quand un événement est détecté est la suivante :
 
