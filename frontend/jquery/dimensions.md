@@ -1,14 +1,14 @@
-#Gérer les dimensions de ses éléments HTML avec jQuery#
+# Gérer les dimensions de ses éléments HTML avec jQuery
 
 Pour ce dernier chapitre de notre introduction à jQuery nous allons nous attaquer à un gros ensemble de fonctions. Au premier abord elles vous sembleront peut-être compliquées mais pas de panique, nous allons y aller étape par étape.
 
 Il vous arrive fréquemment de modifier les dimensions de vos éléments via le CSS, jQuery permet de récupérer ces dimensions mais aussi de les modifier. Pourquoi utiliser jQuery et pas CSS me direz-vous ? Parce qu'**il peut-être intéressant de les modifier dynamiquement et parce que jQuery est beaucoup plus précis dans les mesures** qu'il peut nous retourner. Pour preuve voyez ce schéma (encore une fois pas de panique).
 
-![schéma dimensions jquery](https://trello-attachments.s3.amazonaws.com/586d0c75363b6d188861b5f4/1123x794/fca18c5906805620c7e5f131a72b419d/dimensions_model.jpg.png)
+![schéma dimensions jquery](illustrations/dimensions_model.jpg)
 
 Reprenons chaque mesure sur l'image de l'intérieur vers l'extérieur et expliquons-les.
 
-##1\. Largeur et hauteur absolue##
+## 1\. Largeur et hauteur absolue
 
 Il s'agit des dimensions de notre élément **sans tenir compte de son padding, son margin ou la taille de sa bordure**. Il s'agit en fait de l'espace restant quand vous souhaitez écrire du texte ou insérer une photo.
 
@@ -47,7 +47,7 @@ $(".test").width(490);
 
 ```
 
-##2\. Largeur et hauteur interne##
+## 2\. Largeur et hauteur interne
 
 Ces valeurs correspondent aux méthodes ```.innerWidth()``` et ```.innerHeight()```. Elles fonctionnent sur le même principe que les précédentes si ce n'est qu'**elles incluent le padding de l'élément dans leur calcul**.
 
@@ -66,7 +66,7 @@ $(".test").innerWidth(600);
 
 ```
 
-##3\. Largeur et hauteur externe##
+## 3\. Largeur et hauteur externe
 
 Ces valeurs correspondent aux méthodes  ```.outerWidth()``` et ```.outerHeight()```. Elles fonctionnent sur un principe quelque peu différent des précédentes. Dans leur état le plus simple, **sans argument, elles incluent les bordures** dans la taille de l'élément. Si on leur **passe le boolean ```true``` en argument alors elles incluent les margins** dans leur calcul.
 
@@ -94,6 +94,6 @@ $(".test").outerWidth(700);
 ```
 **Attention vous ne pouvez pas assigner de dimensions en incluant les margins.**
 
-##4\. Sources##
+## 4\. Sources
 
 - http://www.w3schools.com/jquery/jquery_dimensions.asp

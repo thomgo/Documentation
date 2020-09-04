@@ -1,10 +1,10 @@
-#JQuery et le DOM#
+# jQuery et le DOM
 
 Nous avons déjà abordé la notion de sélecteurs en analysant la syntaxe jQuery. **Les sélecteurs jQuery se basent sur le modèle des sélécteurs CSS**. Il est maintenant temps de revenir dessus plus en détails afin que vous puissiez accéder à l'ensemble du DOM.
 
 Remarque : dans tous les exemples donnés, nous utiliserons la méthode .hide() qui permet de masquer un élément de la page. Il est conseillé, pour vous entraîner, de tester vous même le code dans vos fichiers.
 
-##1\.Eléments##
+## 1\.Eléments
 
 Pour sélectionner les éléments HTML en jQuery, le principe est exactement le même qu'en CSS. Il suffit de **reprendre le nom de la balise** et de respecter la syntaxe jQuery.
 
@@ -17,7 +17,7 @@ $( document ).ready(function() {
 
 ```
 
-##2\.Classe##
+## 2\.Classe
 
 Là encore le principe est le même qu'en CSS, vous sélectionnez tous les éléments portant la classe concernée avec **".nomdeclasse"**.
 
@@ -30,7 +30,7 @@ $( document ).ready(function() {
 
 ```
 
-##3\.ID##
+## 3\.ID
 
 Là encore le principe est le même qu'en CSS, vous sélectionnez un élément en particulier avec son id grâce à **"#nomdeid"**.
 
@@ -43,7 +43,7 @@ $( document ).ready(function() {
 
 ```
 
-##4\.Allons plus loin dans nos sélections##
+## 4\.Allons plus loin dans nos sélections
 
 Nous avons vu les sélecteurs les plus classiques et vous pouvez déjà faire pas mal de choses sur vos pages web avec ce que vous savez. Toutefois, vous devez savoir que jQuery nous offre bien d'autres possibilités :
 
@@ -85,7 +85,7 @@ $( document ).ready(function() {
 
 ```
 
-##5\.Sources##
+## 5\.Sources
 
 - http://www.w3schools.com/jquery/jquery_selectors.asp
 

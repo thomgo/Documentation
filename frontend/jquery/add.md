@@ -1,4 +1,4 @@
-#Ajouter du contenu#
+# Ajouter du contenu
 
 Jusqu'à maintenant nous avons travaillé sur le contenu déjà existant mais que diriez vous de pouvoir ajouter votre contenu directement sur vos pages avec jQuery ?
 
@@ -6,7 +6,7 @@ Pour cela nous avons plusieurs fonctions à notre disposition, il faut seulement
 
 Regardons cela ensemble.
 
-##1\.Ajouter du contenu à l'intérieur des balises##
+## 1\.Ajouter du contenu à l'intérieur des balises
 
 - **append** : elle permet d'ajouter du contenu à la fin de l'élément.
 
@@ -50,7 +50,7 @@ Affichera en fait
 
 ```
 
-##2\.Ajouter du contenu à l'extérieur des balises##
+## 2\.Ajouter du contenu à l'extérieur des balises
 
 - **after** : elle permet d'ajouter du contenu juste après l'élément sélectionné.
 
@@ -89,7 +89,7 @@ Le résultat affiché sera :
 <p>Mon premier paragraphe</p>
 
 ```
-##3\.Ajouts mutliples##
+## 3\.Ajouts mutliples
 
 Pour l'ensemble des méthodes évoquées précédemment, il est possible de **rajouter plusieurs éléments à la fois**, il suffit pour cela de les passer en paramètres de la fonction.
 
@@ -100,7 +100,7 @@ $("p").append("<span>texte 1</span>", "<span>texte 2</span>", "<span>texte 3</sp
 
 ```
 
-##4\.Sources##
+## 4\.Sources
 
 - http://www.w3schools.com/jquery/jquery_dom_add.asp
 

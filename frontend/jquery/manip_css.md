@@ -1,8 +1,8 @@
-#Gérer le CSS avec jQuery#
+# Gérer le CSS avec jQuery
 
 JQuery nous permet de modifier le code CSS des éléments HTML présents sur notre page. Cela permet notamment de **changer dynamiquement le style d'un site** selon les actions de l'utilisateur. Tout est rendu possible grâce à la méthode ```.css()``` qui a plusieurs utilisations que nous allons voir ensemble.
 
-##1\.Récupérer une valeur##
+## 1\.Récupérer une valeur
 
 Dans son usage le plus basique cette méthode nous permet de **récupérer la valeur d'une propriété css sur l'élément HTML sélectionné** en passant cette propriété en argument.
 
@@ -19,7 +19,7 @@ $(".exemple").css("color");
 
 ```
 
-##2\.Changer une valeur##
+## 2\.Changer une valeur
 
 Heureusement on peut faire bien plus que simplement récupérer des valeurs, on peut également les modifier. Pour cela il suffit de passer la valeur comme deuxième argument de la méthode ```.css()```.
 
@@ -38,7 +38,7 @@ $(".exemple").css("color", "blue");
 
 ```
 
-##3\.Changer plusieurs valeurs##
+## 3\.Changer plusieurs valeurs
 
 Qui a dit qu'on ne voulait modifier que la couleur de notre texte ? On a peut-être envie de modifier plusieurs propriétés et c'est là que les choses se compliquent un peu.
 
@@ -57,7 +57,7 @@ $(".exemple").css({
 
 ```
 
-##4\.Sources##
+## 4\.Sources
 
 - http://www.w3schools.com/jquery/jquery_css.asp
 

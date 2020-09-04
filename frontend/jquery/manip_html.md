@@ -1,8 +1,8 @@
-#Gérer les classes en jQuery#
+# Gérer les classes en jQuery
 
 Après avoir suivi le parcours HTML et CSS, vous utilisez probablement les classes dans vos pages web pour appliquer le même style à plusieurs balises HTML. JQuery vous permet de modifier dynamiquement l'attribut ```class``` de vos éléments HTML.
 
-##1\. Ajouter une classe##
+## 1\. Ajouter une classe
 
 Vous pouvez ajouter une classe à votre élément grâce à la méthode ```.addClass()```. **L'élément prendra alors les propriétés associées à la classe**.
 
@@ -25,7 +25,7 @@ $(".test").addClass("newclass");
 
 ```
 
-##2\. Retirer une classe##
+## 2\. Retirer une classe
 
 De la même manière nous pouvons très simplement retirer des classes à nos attributs HTML en utilisant une autre méthode de jQuery ```.removeClass("nom de la classe")```. Une fois cette méthode lancée, **l'élément ciblé n'aura plus la classe dans ses attributs et en perdra les propriétés**.
 
@@ -48,7 +48,7 @@ $("p").removeClass("info");
 
 ```
 
-##3\. Retirer et ajouter une classe en même temps##
+## 3\. Retirer et ajouter une classe en même temps
 
 La méthode qui suit est un peu plus compliquée à comprendre mais elle vous sera extrêmement utile lors de vos développements.
 
@@ -75,7 +75,7 @@ $("p").toggleClass("info");
 
 ```
 
-##4\. Sources##
+## 4\. Sources
 
 - http://www.w3schools.com/jquery/jquery_css_classes.asp
 
