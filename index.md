@@ -2,6 +2,7 @@
 
 ## Choisissez une thématique
 
+- [Le développement web en schémas](schemas/)
 - [Outils du développeur web]()
 - [Grands principes du web]()
 - [Maquettage]()
