@@ -71,7 +71,7 @@ Tout comme en HTML et en CSS, il est vital de commenter son code. Cela est d'aut
 - **Commentaire sur une ligne** :
 
 ```
-//Votre commentaire
+// Votre commentaire
 
 ```
 
